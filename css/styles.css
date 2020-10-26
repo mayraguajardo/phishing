@@ -10203,6 +10203,9 @@ section.history .history-heading {
   margin-right: auto;
   width: 50%;
 }
+.iframe{
+  border: "0";
+}
 /*Ending testing*/
 #portfolio .portfolio-item {
   max-width: 25rem;
