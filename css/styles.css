@@ -10132,8 +10132,8 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #e3e9c7;
-  background-image: url("../assets/img/olympic-pool.jpeg");
+  color: #000;
+  background-image: url("../assets/img/amazonFondo.JPG");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -10141,7 +10141,9 @@ header.masthead {
 }
 
 header.masthead .masthead-heading  {
+  background-color: #ff0019;
   padding-bottom: 3rem;
+  padding-top: 1rem;
   font-size: 3.25rem;
   font-weight: 700;
   line-height: 3.25rem;
